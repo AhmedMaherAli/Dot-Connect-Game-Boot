@@ -1,4 +1,4 @@
-# Dot-Connect-Game-Boot
+# Dot-Connect-Game-Bot
 
 ## Project title
 This is a university project about making python game boot to play a Dot connect game and try to win.
